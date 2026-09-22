@@ -1,0 +1,15 @@
+D:\Code\VisualStudio\task_8\bin\Debug\net10.0\task_8.exe
+D:\Code\VisualStudio\task_8\bin\Debug\net10.0\task_8.deps.json
+D:\Code\VisualStudio\task_8\bin\Debug\net10.0\task_8.runtimeconfig.json
+D:\Code\VisualStudio\task_8\bin\Debug\net10.0\task_8.dll
+D:\Code\VisualStudio\task_8\bin\Debug\net10.0\task_8.pdb
+D:\Code\VisualStudio\task_8\obj\Debug\net10.0\task_8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\VisualStudio\task_8\obj\Debug\net10.0\task_8.AssemblyInfoInputs.cache
+D:\Code\VisualStudio\task_8\obj\Debug\net10.0\task_8.AssemblyInfo.cs
+D:\Code\VisualStudio\task_8\obj\Debug\net10.0\task_8.csproj.CoreCompileInputs.cache
+D:\Code\VisualStudio\task_8\obj\Debug\net10.0\task_8.dll
+D:\Code\VisualStudio\task_8\obj\Debug\net10.0\refint\task_8.dll
+D:\Code\VisualStudio\task_8\obj\Debug\net10.0\task_8.pdb
+D:\Code\VisualStudio\task_8\obj\Debug\net10.0\task_8.genruntimeconfig.cache
+D:\Code\VisualStudio\task_8\obj\Debug\net10.0\ref\task_8.dll
+D:\Code\VisualStudio\task_8\obj\Debug\net10.0\task_8.csproj.Up2Date
