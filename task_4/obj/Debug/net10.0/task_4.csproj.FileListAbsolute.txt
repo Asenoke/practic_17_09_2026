@@ -1,0 +1,14 @@
+D:\Code\VisualStudio\task_4\bin\Debug\net10.0\task_4.exe
+D:\Code\VisualStudio\task_4\bin\Debug\net10.0\task_4.deps.json
+D:\Code\VisualStudio\task_4\bin\Debug\net10.0\task_4.runtimeconfig.json
+D:\Code\VisualStudio\task_4\bin\Debug\net10.0\task_4.dll
+D:\Code\VisualStudio\task_4\bin\Debug\net10.0\task_4.pdb
+D:\Code\VisualStudio\task_4\obj\Debug\net10.0\task_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\VisualStudio\task_4\obj\Debug\net10.0\task_4.AssemblyInfoInputs.cache
+D:\Code\VisualStudio\task_4\obj\Debug\net10.0\task_4.AssemblyInfo.cs
+D:\Code\VisualStudio\task_4\obj\Debug\net10.0\task_4.csproj.CoreCompileInputs.cache
+D:\Code\VisualStudio\task_4\obj\Debug\net10.0\task_4.dll
+D:\Code\VisualStudio\task_4\obj\Debug\net10.0\refint\task_4.dll
+D:\Code\VisualStudio\task_4\obj\Debug\net10.0\task_4.pdb
+D:\Code\VisualStudio\task_4\obj\Debug\net10.0\task_4.genruntimeconfig.cache
+D:\Code\VisualStudio\task_4\obj\Debug\net10.0\ref\task_4.dll
